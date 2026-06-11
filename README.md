@@ -14,6 +14,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/cloutierr/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/cloutierr/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0133-clone-graph](https://github.com/cloutierr/leetcode/tree/main/0133-clone-graph/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,16 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/cloutierr/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/cloutierr/leetcode/tree/main/0133-clone-graph/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/cloutierr/leetcode/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/cloutierr/leetcode/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
